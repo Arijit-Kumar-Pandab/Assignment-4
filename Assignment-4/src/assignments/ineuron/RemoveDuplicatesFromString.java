@@ -1,3 +1,5 @@
+// Question 1:- WAP to remove Duplicates from a String.(Take any String ex with duplicates
+// character)
 package assignments.ineuron;
 
 public class RemoveDuplicatesFromString {
